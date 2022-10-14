@@ -1,0 +1,68 @@
+{
+ "signup":{
+    "name": "Regina Azzi",
+    "cpf": "00000000012",
+    "email": "reginaazzi@hotmail.com",
+    "whatsapp": "149999999999",
+    "address": {             
+    "postalcode": "17064150",
+    "street": "Rua Santos Dumont",
+    "number": "2022",
+    "details": "casa",
+    "district": "Jardim São Jorge",
+    "city_state": "Bauru/SP"
+
+      },
+
+      "delivery_method": "Moto",
+      "cnh": "cnh-digital-teste.jpg"
+
+    },
+
+    "cpf_inv":{
+
+    "name": "João da Silva",
+    "cpf": "000000000zz",
+    "email": "joodasilva@hotmail.com",
+    "whatsapp": "149999999988",
+    "address": {             
+    "postalcode": "17064150",
+    "street": "Rua Santos Dumont",
+    "number": "22",
+    "details": "casa",
+    "district": "Jardim São Jorge",
+    "city_state": "Bauru/SP"
+       },
+
+       "delivery_method": "Moto",
+      "cnh": "cnh-digital-teste.jpg"
+
+   },
+
+   "email_inv":{
+      "name": "Regina Maria",
+      "cpf": "00000000015",
+      "email": "regina.hotmail.com",
+      "whatsapp": "149999999999",
+      "address": {             
+      "postalcode": "17064150",
+      "street": "Rua Santos Dumont",
+      "number": "202225",
+      "details": "casa",
+      "district": "Jardim São Jorge",
+      "city_state": "Bauru/SP"
+  
+        },
+        "delivery_method": "Moto",
+      "cnh": "cnh-digital-teste.jpg"
+
+   }
+}
+
+
+
+
+
+
+
+
