@@ -3,7 +3,6 @@
 ## Apresentação: 
 
 Este  projeto foi criado durante o curso da Trilha Discovery da QAcademy. 
-durante esta sprint estudamos:
 
 
 ### Pré-requisitos:
